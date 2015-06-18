@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Overall method follows the implementation for vectors and their means
+## described in the the coursera R programming course
+## Implementation might have issues computing and storing large matrices
+
+
 
 ## Creates a list containing functions to get and set the values
 ## of the matrix and its inverse
